@@ -1,6 +1,6 @@
-# :drop_of_blood::syringe: Stroke Analysis and Predictions :syringe::drop_of_blood:
+# :christmas_tree::film_strip: CHRISTMAS MOVIE DASHBOARD :film_strip::christmas_tree:
 
-![Banner](https://github.com/yuunam97/stroke-analysis/blob/main/images/christmas-banner.png?raw=true)
+![Banner](https://github.com/yuunam97/christmas-movie-analysis/blob/main/images/christmas-banner.png?raw=true)
 
 ### Description: 
 This analysis looked at the Christmas Movies up to 2022. Data cleaning was done on Python, and the visualization on these movies were done on Power BI. The dataset I used is [here](https://www.kaggle.com/datasets/jonbown/christmas-movies) from Kaggle. 
@@ -11,15 +11,15 @@ This analysis looked at the Christmas Movies up to 2022. Data cleaning was done 
 #### 1. Christmas Movies Overview Dashboard
 - You can click on the list on the bottom left to view each movies's details
 
-![overview](https://github.com/yuunam97/stroke-analysis/blob/main/images/1.png?raw=true)
+![overview](https://github.com/yuunam97/christmas-movie-analysis/blob/main/images/1.png?raw=true)
 
 #### 2. Christmas Movies Statistis Dashboard
 
-![statistics](https://github.com/yuunam97/stroke-analysis/blob/main/images/2.png?raw=true)
+![statistics](https://github.com/yuunam97/christmas-movie-analysis/blob/main/images/2.png?raw=true)
 
 #### 3. Thank you dashboard, buttom page
 p
-![final-page](https://github.com/yuunam97/stroke-analysis/blob/main/images/3.png?raw=true)
+![final-page](https://github.com/yuunam97/christmas-movie-analysis/blob/main/images/3.png?raw=true)
 
 ### What do we know from this Christmas Movies Analysis?: 
 - **The best IMDB rated Christmas movie is called "It's a Wonderful Life" released in 1946!!**
