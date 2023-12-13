@@ -5,8 +5,8 @@
 ### Description: 
 This analysis looked at the Christmas Movies up to 2022. Data cleaning was done on Python, and the visualization on these movies were done on Power BI. The dataset I used is [here](https://www.kaggle.com/datasets/jonbown/christmas-movies) from Kaggle. 
 
-### :movie_camera: What do we know from this Christmas Movies Analysis? :movie_camera:
-- **The best IMDB rated Christmas movie is called "It's a Wonderful Life" released in 1946!!**
+### What do we know from this Christmas Movies Analysis? 
+- **The best IMDB rated Christmas movie is called "It's a Wonderful Life" released in 1946!!** :movie_camera:
 - **Silver Linings Playbook released in 2012 had the highest Movie Critic rating of 81** :satisfied:
 - **Iron Man 3 produced the highest Box Office movie!** :satisfied:
 - **It seems that Comedy, Drama and Romance are the top three most watched/famous genre of movies** :satisfied:
