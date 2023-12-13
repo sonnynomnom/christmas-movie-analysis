@@ -11,6 +11,7 @@ This analysis looked at the Christmas Movies up to 2022. Data cleaning was done 
 - **Iron Man 3 produced the highest Box Office movie!** :satisfied:
 - **It seems that Comedy, Drama and Romance are the top three most watched/famous genre of movies** :satisfied:
 
+------------------------------------------------------------------------------------------------------
 
 ### Here is the Dashboard you can have a look at: 
 --> [Link](https://app.powerbi.com/reportEmbed?reportId=3c137d8d-82bb-428e-8ef1-ec02e88581c2&autoAuth=true&ctid=92454335-564e-4ccf-b0b0-24445b8c03f7)
