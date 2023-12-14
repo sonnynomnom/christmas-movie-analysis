@@ -26,7 +26,7 @@ This analysis looked at the Christmas Movies up to 2022. Data cleaning was done 
 ![statistics](https://github.com/yuunam97/christmas-movie-analysis/blob/main/images/2.png?raw=true)
 
 #### 3. Thank you dashboard, buttom page
-p
+
 ![final-page](https://github.com/yuunam97/christmas-movie-analysis/blob/main/images/3.png?raw=true)
 
 
